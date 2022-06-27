@@ -6,9 +6,13 @@
  
 #### I like ❤️   
  
- trevel 🎒 ,game 🎮, take a rest 🛌   
+ trevel 🎒 ,bicycle 🚴🏻, game 🎮, take a rest 🛌   
  already traveled - 🇰🇷🇹🇼🇯🇵🇸🇽🇹🇭   
  want to travel - 🇺🇸🇫🇷🇲🇳🇳🇱🇮🇸   
+ 
+ bicycle clear - yeangsan-river, jeju isaland.  
+ 
+
  
 ---
 
