@@ -4,6 +4,12 @@
  I'm a BackEnd developer 😄    
  Also, I have some frontend development experience.
  
+#### I like ❤️   
+ 
+ trevel 🎒 ,game 🎮, take a rest 🛌   
+ already traveled - 🇰🇷🇹🇼🇯🇵🇸🇽🇹🇭   
+ want to travel - 🇺🇸🇫🇷🇲🇳🇳🇱🇮🇸   
+ 
 ---
 
 ### ✨ Back-end Stack ✨
