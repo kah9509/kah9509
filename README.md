@@ -22,7 +22,7 @@
 
 </br></br>
 
-![Ahhyeon GitHub stats](https://github-readme-stats.vercel.app/api?username=kah9509&orgs=didisam&show_icons=true&theme=tokyonight)
+![Ahhyeon GitHub stats](https://github-readme-stats.vercel.app/api?username=kah9509&orgs=didisam&count_private=true&show_icons=true&theme=tokyonight)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kah9509&layout=compact&theme=tokyonight)
