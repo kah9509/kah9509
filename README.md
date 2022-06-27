@@ -24,6 +24,8 @@
 
 ![Ahhyeon GitHub stats](https://github-readme-stats.vercel.app/api?username=kah9509&orgs=didisam&count_private=true&show_icons=true&theme=tokyonight)
 
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kah9509)
+
 
 </div>
 <!--
