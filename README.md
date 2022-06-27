@@ -25,9 +25,6 @@
 ![Ahhyeon GitHub stats](https://github-readme-stats.vercel.app/api?username=kah9509&orgs=didisam&count_private=true&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kah9509&layout=compact&theme=tokyonight)
-
-
 </div>
 <!--
 **kah9509/kah9509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
