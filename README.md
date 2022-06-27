@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkah9509&count_bg=%23102302&title_bg=%23C9C4FC&icon=github.svg&icon_color=%232D2C2C&title=hits&edge_flat=true"/></a> 
-
-Hi there.  
+#### Hi there.  
  I'm a BackEnd developer 😄    
  Also, I have some frontend development experience.
  
@@ -24,9 +22,11 @@ Hi there.
 
 </br></br>
 
-![Ahhyeon GitHub stats](https://github-readme-stats.vercel.app/api?username=kah9509&show_icons=true&theme=tokyonight)
+![Ahhyeon GitHub stats](https://github-readme-stats.vercel.app/api?username=kah9509&orgs=didisam&show_icons=true&theme=tokyonight)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kah9509&layout=compact&theme=tokyonight)
+
 
 </div>
 <!--
