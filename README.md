@@ -10,7 +10,7 @@
  already traveled - 🇰🇷🇹🇼🇯🇵🇸🇽🇹🇭   
  want to travel - 🇺🇸🇫🇷🇲🇳🇳🇱🇮🇸   
  
- bicycle clear - yeangsan-river, jeju isaland.  
+ bicycle clear - youngsan-river, jeju island.  
  
 
  
