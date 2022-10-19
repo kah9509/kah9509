@@ -2,7 +2,6 @@
 
 #### Hi there.  
  I'm a BackEnd developer 😄    
- Also, I have some frontend development experience.
  
 #### I like ❤️   
  
