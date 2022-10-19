@@ -6,7 +6,7 @@
  
 #### I like ❤️   
  
- trevel 🎒 ,bicycle 🚴🏻, game 🎮, take a rest 🛌   
+ travel 🎒 ,bicycle 🚴🏻, game 🎮, take a rest 🛌   
  already traveled - 🇰🇷🇹🇼🇯🇵🇸🇽🇹🇭   
  want to travel - 🇺🇸🇫🇷🇲🇳🇳🇱🇮🇸   
  
