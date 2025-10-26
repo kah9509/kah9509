@@ -3,16 +3,6 @@
 #### Hi there.  
  I'm a BackEnd developer 😄    
  
-#### I like ❤️   
- 
- travel 🎒 ,bicycle 🚴🏻, game 🎮, take a rest 🛌   
- already traveled - 🇰🇷🇹🇼🇯🇵🇸🇽🇹🇭   
- want to travel - 🇺🇸🇫🇷🇲🇳🇳🇱🇮🇸   
- 
- bicycle clear - youngsan-river, jeju island.  
- 
-
- 
 ---
 
 ### ✨ Back-end Stack ✨
@@ -30,8 +20,6 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=ffffff"/>
 
 </br></br>
-
-![Ahhyeon GitHub stats](https://github-readme-stats.vercel.app/api?username=kah9509&orgs=didisam&count_private=true&show_icons=true&theme=tokyonight)
 
 
 </div>
